@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A third computer science student from India.</h3>
+<h3 align="center">A third year computer science student from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdev23&label=Profile%20views&color=0e75b6&style=flat" alt="akashdev23" /> </p>
 
