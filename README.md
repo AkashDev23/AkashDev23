@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **DSA, java, python**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
