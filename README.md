@@ -34,5 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashdev23&show_icons=true&locale=en&layout=compact" alt="akashdev23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdev23&show_icons=true&locale=en" alt="akashdev23" /></p>
-[![An image of @akashdev23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashdev23)](https://holopin.io/@akashdev23)
+
